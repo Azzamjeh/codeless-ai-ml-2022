@@ -39,6 +39,10 @@ For CLUSRTING
 - shape manager
 - scatter plot
 
+### Concolusion 
+
+The conclusion of the Iris dataset analysis is that it is possible to use the measurements of the sepal length, sepal width, petal length, and petal width to accurately classify the three species of iris flowers. This dataset has been used extensively to demonstrate machine learning techniques for classification problems.
+
 ## Credit 
 Azzam Jehtarhe
 
